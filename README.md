@@ -24,7 +24,7 @@ DB_DATABASE="nom de la BD "
 DB_USERNAME=root
 DB_PASSWORD=root
 
-OU creer une BD avec le meme nom "aerialgroup_test_db"  dans mysql
+OU creer une BD avec les memes parametres ci-dessous dans mysql
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
